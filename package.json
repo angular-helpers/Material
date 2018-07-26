@@ -1,8 +1,15 @@
 {
-  "name": "@eservia-frontend/components",
+  "name": "@angular-helpers/material",
+  "description": "Material Components for Angular Helpers",
+  "license": "MIT",
+  "repository": "https://github.com/angular-helpers/material.git",
   "version": "0.0.1",
   "dependencies": {
+    "rxjs": "^6.2.2",
+    "zone.js": "^0.8.26",
+    "@angular/common": "^6.1.0",
     "@angular/core": "^6.1.0",
-    "angular-material": "^1.1.10"
+    "@angular/cdk": "^6.4.1",
+    "@angular/material": "^6.4.1"
   }
 }
