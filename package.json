@@ -1,0 +1,8 @@
+{
+  "name": "@eservia-frontend/components",
+  "version": "0.0.1",
+  "dependencies": {
+    "@angular/core": "^6.1.0",
+    "angular-material": "^1.1.10"
+  }
+}
